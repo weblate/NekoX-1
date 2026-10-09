@@ -36,4 +36,6 @@
     <string name="Nya">Мяу!</string>
     <string name="SaveCacheToExternalFilesDir">Изолация на хранилището</string>
     <string name="SaveCacheToExternalFilesDirAbout">Запазва папката „Telegram“ в специфична за приложението директория, за да поддържа споделеното хранилище подредено.</string>
+    <string name="MomoSettings">Настройки на Momo</string>
+    <string name="NekoSettings">Неко Настройки</string>
 </resources>
